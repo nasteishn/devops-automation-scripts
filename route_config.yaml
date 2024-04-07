@@ -1,0 +1,2 @@
+Backtrack(nums, temp, result);
+if (temp.contains(nums.get(i))) continue;
